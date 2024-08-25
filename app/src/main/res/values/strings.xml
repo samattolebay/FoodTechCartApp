@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Yandex FoodTech Cart</string>
+    <string name="cart_title">Корзина</string>
+    <string name="cart_dish_count">%s блюда</string>
+    <string name="next">Далее</string>
+    <string name="price">%s %s</string>
 </resources>
